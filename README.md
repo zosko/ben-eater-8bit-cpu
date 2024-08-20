@@ -7,7 +7,7 @@ Website: [https://eater.net/8bit](https://eater.net/8bit)
 
 ## Sponsorship
 
-![PCBWay_logo](pics/pcbway_logo.png)
+![PCBWay_logo](pcbway_logo.png)
 
 This project is kindly sponsored by [PCBWay](https://pcbway.com).
 PCBWay specializes in manufacturing high-quality PCBs and makes them affordable to hobbyist and professionals alike.
